@@ -47,7 +47,7 @@ I believe great ML engineering is 20% model and 80% knowing what to do when it f
 ---
 <div align="center">
 
-![Vidhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vidhan66&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhan66&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+![Vidhan's GitHub Stats](<img src="https://github-readme-stats.vercel.app/api?username=vidhan66&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />)
+![Top Languages](<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhan66&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />)
 
 </div>
