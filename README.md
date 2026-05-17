@@ -38,16 +38,17 @@ I believe great ML engineering is 20% model and 80% knowing what to do when it f
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-4B0082?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=flat-square)
 
 ---
 <div align="center">
 
 ![Vidhan's GitHub Stats](<img src="https://github-readme-stats.vercel.app/api?username=vidhan66&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />)
-![Top Languages](<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhan66&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />)
 
 </div>
